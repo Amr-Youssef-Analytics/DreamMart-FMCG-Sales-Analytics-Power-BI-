@@ -89,7 +89,7 @@ Supply chain and operational risk analysis:
 - **Power Query** – Data cleaning & transformation
 - **DAX** – Measures, KPIs, and calculated metrics
 - **Data Modeling**
-- Custom **JSON theme** for enterprise UI
+- **Custom Power BI JSON Theme (Gartner-inspired)**
 - Sidebar navigation with icon-based page routing
 
 ---
