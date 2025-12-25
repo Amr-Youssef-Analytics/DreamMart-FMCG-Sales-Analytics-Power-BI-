@@ -40,8 +40,7 @@ High-level performance snapshot for leadership:
 - Promotion Sales Share
 - Year-over-year sales trends
 - Category and store location contribution
-- ### Executive Overview
-![Executive Overview](Executive Overview.png)
+- ![Executive Overview](Screenshots/Executive_Overview.png)
 
 📌 *Purpose:* Strategic monitoring and executive reporting.
 
