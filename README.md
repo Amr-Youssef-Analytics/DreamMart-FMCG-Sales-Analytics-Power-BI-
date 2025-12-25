@@ -53,6 +53,8 @@ Evaluation of promotional effectiveness and risk:
 - Gross margin comparison (Promo vs Non-Promo)
 - Loss-making sales percentage
 - Promotion reliance by product category
+- ### Promotion Impact
+![Promotion Impact](Screenshots/Promotion_Impact.png)
 
 📌 *Purpose:* Understand pricing strategy trade-offs and profitability risk.
 
@@ -64,6 +66,8 @@ Supply chain and operational risk analysis:
 - Replenishment lead time
 - Sales vs Average Stock (bubble risk analysis)
 - Inventory distribution by category
+- ### Inventory & Risk
+![Inventory & Risk](Screenshots/Inventory_Risk.png)
 
 📌 *Purpose:* Identify stock-out risk, overstocking, and optimization opportunities.
 
