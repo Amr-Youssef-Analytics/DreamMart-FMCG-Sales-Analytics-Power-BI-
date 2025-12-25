@@ -115,6 +115,7 @@ This project demonstrates the ability to:
 ---
 ## 📂 Repository Structure
 
+```
 DreamMart-FMCG-Analytics/
 │
 ├── README.md
@@ -126,7 +127,7 @@ DreamMart-FMCG-Analytics/
 │ └── Inventory_Risk.png
 └── Theme/
 └── dreammart_theme.json
-
+```
 
 
 
