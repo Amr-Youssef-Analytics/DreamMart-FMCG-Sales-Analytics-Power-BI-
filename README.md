@@ -119,14 +119,13 @@ DreamMart-FMCG-Analytics/
 │
 ├── README.md
 ├── Dashboard/
-│   └── DreamMart_Dashboard.pbix
+│ └── DreamMart_Dashboard.pbix
 ├── Screenshots/
-│   ├── Executive_Overview.png
-│   ├── Promotion_Impact.png
-│   └── Inventory_Risk.png
+│ ├── Executive_Overview.png
+│ ├── Promotion_Impact.png
+│ └── Inventory_Risk.png
 └── Theme/
-    └── dreammart_theme.json
-
+└── dreammart_theme.json
 
 
 
